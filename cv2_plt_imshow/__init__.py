@@ -1,1 +1,1 @@
-from .imshow import cv2_plt_imshow
+from .imshow import cv2_plt_imshow, plt_format
